@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=K2 Old Footprint=Molex_89400-041 New Footprint=Grove 4 pin
+Change Component Comment : Designator=K2 Old Comment=Molex_89400_041 New Comment=Grove_4pin, through hole
+Added Member To Class: ClassName=hv_pm Member=Component K3 1x2PLS

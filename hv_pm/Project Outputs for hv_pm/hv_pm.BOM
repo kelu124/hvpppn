@@ -1,0 +1,22 @@
+Bill of Material for 
+On 10.04.2019 at 21:08:18
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1x2PLS              JUMPER2          4    K1, K2, K3, K4                                    
+ BAV99S              SOT-363          2    D1, D5                       sot343 diodes pack   
+ boost converter     QFN-16 3x3mm     1    U1                           qfn16                
+ CAP_d6.3x2.5mm      CAP_d6.3x2.5mm    2    C3, C7                       CAP_d6.3x2.5mm       
+ CAP_POL_SMB         CAP_POL_SMB      1    C4                           CAP_POL_SMB(3528)    
+ cap0805             SM0805          10    C1, C2, C5, C6, C8, C9, C10  Capacitor            
+                                           C11, C12, C13
+ DiodeZener_SOD123   SOD123           3    D2, D3, D4                   SOD123               
+ inductance SMT 3.2x4.5 mm inductor_LQH43PN    2    L1, L2                       inductance SMT 3.2x4.5 mm 
+ MAX1846             MSOP-10_M        1    U3                           non-inverting buffer sot23-5 
+ MCP4017             sc70-6           1    U2                           I2C 128 tap digital pot 
+ MOSFET-N_BSZ42DN25NS3 TSON 3.8x3.8mm -    1    Q1                           N-Channel MOSFET     
+ res0805             SM0805          15    R1, R2, R3, R4, R5, R6, R7   Resistor             
+                                           R8, R9, R10, R11, R12, R14
+                                           R15, R16
+ res2512             smt2512          1    R13                          Resistor             
+ Si7113ADN           TSON 3.8x3.8mm -    1    Q2                           P-Channel MOSFET     

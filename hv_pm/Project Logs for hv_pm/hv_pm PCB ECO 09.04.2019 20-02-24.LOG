@@ -1,0 +1,4 @@
+Added Component: Designator=C4(CAP_POL_SMB)
+Added Pin To Net: NetName=+VIN Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=hv_pm Member=Component C4 CAP_POL_SMB

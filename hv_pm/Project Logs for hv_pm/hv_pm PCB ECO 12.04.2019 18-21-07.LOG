@@ -1,0 +1,23 @@
+Removed Pin From Net: NetName=+VIN Pin=K2-1
+Removed Pin From Net: NetName=GND Pin=K2-2
+Removed Pin From Net: NetName=NetK3_1 Pin=K3-1
+Removed Pin From Net: NetName=NetK3_2 Pin=K3-2
+Removed Pin From Net: NetName=NetK3_1 Pin=R7-1
+Removed Pin From Net: NetName=NetK3_2 Pin=R8-1
+Removed Pin From Net: NetName=NetK3_1 Pin=U2-3
+Removed Pin From Net: NetName=NetK3_2 Pin=U2-4
+Removed Member From Class: ClassName=hv_pm Member=K4
+Change Component Footprint: Designator=K2 Old Footprint=JUMPER2 New Footprint=Molex_89400-041
+Change Component Comment : Designator=K2 Old Comment=1x2PLS New Comment=Molex_89400_041
+Change Component Designator: OldDesignator=K4 NewDesignator=K3
+Added Pin To Net: NetName=NetK3_2 Pin=K2-1
+Added Pin To Net: NetName=NetK3_1 Pin=K2-2
+Added Pin To Net: NetName=+VIN Pin=K2-3
+Added Pin To Net: NetName=GND Pin=K2-4
+Added Pin To Net: NetName=NetK3_2 Pin=R7-1
+Added Pin To Net: NetName=NetK3_1 Pin=R8-1
+Added Pin To Net: NetName=NetK3_2 Pin=U2-3
+Added Pin To Net: NetName=NetK3_1 Pin=U2-4
+Change Net Name : Old Net Name=NetK3_1 New Net Name=SDA
+Change Net Name : Old Net Name=NetK3_2 New Net Name=SCL
+Added Room: Name=hv_pm
